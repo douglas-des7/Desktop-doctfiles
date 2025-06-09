@@ -1,0 +1,9 @@
+# Hyprland Dotfiles
+- This respository contains my configuration files for Hyprland, As my first time in archlinux, This used some guides from others.
+# Sources
+- The dotfiles are inspired by various sources, including:
+  - [JaKooLit (Hyprland-Dots)](https://github.com/JaKooLit/Hyprland-Dots)
+  - [mylinuxforwork (dotfiles)](https://github.com/mylinuxforwork/dotfiles/tree/main)
+  - [sudoharun (dotfiles)](https://github.com/sudoharun/dotfiles)
+  - [folke (lazy.nvim)](https://github.com/folke/lazy.nvim)
+  - [Hyprland Wiki](https://wiki.hyprland.org/)
