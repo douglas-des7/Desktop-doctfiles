@@ -1,0 +1,13 @@
+/* ---- Color theme's config ---- */
+@import "~/.config/Sources/Colors/theme_1.conf"
+/* ---- Configuration ---- */
+/* ---- Window ---- */
+/* ---- Mainbox ---- */
+/* ---- Imagebox ---- */
+/* ---- Listbox ---- */
+/* ---- Dummy ---- */
+/* ---- Inputbar ---- */
+/* ---- Mode Switcher ---- */
+/* ---- ListView ---- */
+/* ---- Element ---- */
+/* ---- Message ---- */
