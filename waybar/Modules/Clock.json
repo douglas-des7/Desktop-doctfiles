@@ -1,0 +1,13 @@
+{
+    "clock": {
+        "interval": 1,
+        "tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>",
+        "format": "<span color=\"#88c0d0\"></span> {:%Y-%m-%d, %H:%M:%S}"
+    },
+    "clock#fulldate": {
+        "interval": 60,
+        "tooltip": true,
+        "format": "{:%H.%M}",
+        "tooltip-format": "{:%Y-%m-%d}"
+    }
+}
